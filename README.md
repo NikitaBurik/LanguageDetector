@@ -1,5 +1,5 @@
 # LanguageDetector
-Application for detecting language. User should just open custom file in 'txt' format and press button "Read".
+Application for detecting language. User should just open custom file in 'txt' format and press button "Read".&nbsp;
 It works using 8 vocabularies with the most usable words of languages: norwegian , dutch, danish, german, english, italian , french and spanish.
 
 _
